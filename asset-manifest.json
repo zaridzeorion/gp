@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/github-profiles/static/css/main.b579932f.chunk.css",
+    "main.css": "/github-profiles/static/css/main.e9a3f162.chunk.css",
     "main.js": "/github-profiles/static/js/main.5007f43b.chunk.js",
     "main.js.map": "/github-profiles/static/js/main.5007f43b.chunk.js.map",
     "runtime-main.js": "/github-profiles/static/js/runtime-main.25983f61.js",
@@ -10,7 +10,7 @@
     "static/js/3.ba7a17ef.chunk.js": "/github-profiles/static/js/3.ba7a17ef.chunk.js",
     "static/js/3.ba7a17ef.chunk.js.map": "/github-profiles/static/js/3.ba7a17ef.chunk.js.map",
     "index.html": "/github-profiles/index.html",
-    "static/css/main.b579932f.chunk.css.map": "/github-profiles/static/css/main.b579932f.chunk.css.map",
+    "static/css/main.e9a3f162.chunk.css.map": "/github-profiles/static/css/main.e9a3f162.chunk.css.map",
     "static/js/2.edfd33a0.chunk.js.LICENSE.txt": "/github-profiles/static/js/2.edfd33a0.chunk.js.LICENSE.txt",
     "static/media/githublogo.5eab40a0.png": "/github-profiles/static/media/githublogo.5eab40a0.png",
     "static/media/gridicon.1afda891.svg": "/github-profiles/static/media/gridicon.1afda891.svg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.25983f61.js",
     "static/js/2.edfd33a0.chunk.js",
-    "static/css/main.b579932f.chunk.css",
+    "static/css/main.e9a3f162.chunk.css",
     "static/js/main.5007f43b.chunk.js"
   ]
 }
