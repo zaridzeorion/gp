@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/github-profiles/static/css/main.b579932f.chunk.css",
-    "main.js": "/github-profiles/static/js/main.49b38077.chunk.js",
-    "main.js.map": "/github-profiles/static/js/main.49b38077.chunk.js.map",
-    "runtime-main.js": "/github-profiles/static/js/runtime-main.25983f61.js",
-    "runtime-main.js.map": "/github-profiles/static/js/runtime-main.25983f61.js.map",
-    "static/js/2.ddc522a4.chunk.js": "/github-profiles/static/js/2.ddc522a4.chunk.js",
-    "static/js/2.ddc522a4.chunk.js.map": "/github-profiles/static/js/2.ddc522a4.chunk.js.map",
-    "static/js/3.ba7a17ef.chunk.js": "/github-profiles/static/js/3.ba7a17ef.chunk.js",
-    "static/js/3.ba7a17ef.chunk.js.map": "/github-profiles/static/js/3.ba7a17ef.chunk.js.map",
+    "main.js": "/github-profiles/static/js/main.c5a1099a.chunk.js",
+    "main.js.map": "/github-profiles/static/js/main.c5a1099a.chunk.js.map",
+    "runtime-main.js": "/github-profiles/static/js/runtime-main.125b05fb.js",
+    "runtime-main.js.map": "/github-profiles/static/js/runtime-main.125b05fb.js.map",
+    "static/js/2.4a920329.chunk.js": "/github-profiles/static/js/2.4a920329.chunk.js",
+    "static/js/2.4a920329.chunk.js.map": "/github-profiles/static/js/2.4a920329.chunk.js.map",
+    "static/js/3.550a813c.chunk.js": "/github-profiles/static/js/3.550a813c.chunk.js",
+    "static/js/3.550a813c.chunk.js.map": "/github-profiles/static/js/3.550a813c.chunk.js.map",
     "index.html": "/github-profiles/index.html",
     "static/css/main.b579932f.chunk.css.map": "/github-profiles/static/css/main.b579932f.chunk.css.map",
-    "static/js/2.ddc522a4.chunk.js.LICENSE.txt": "/github-profiles/static/js/2.ddc522a4.chunk.js.LICENSE.txt",
+    "static/js/2.4a920329.chunk.js.LICENSE.txt": "/github-profiles/static/js/2.4a920329.chunk.js.LICENSE.txt",
     "static/media/githublogo.5eab40a0.png": "/github-profiles/static/media/githublogo.5eab40a0.png",
     "static/media/gridicon.1afda891.svg": "/github-profiles/static/media/gridicon.1afda891.svg",
     "static/media/listicon.c2d3dbb9.svg": "/github-profiles/static/media/listicon.c2d3dbb9.svg",
@@ -19,9 +19,9 @@
     "static/media/supervisor_account.6a1bce44.svg": "/github-profiles/static/media/supervisor_account.6a1bce44.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.25983f61.js",
-    "static/js/2.ddc522a4.chunk.js",
+    "static/js/runtime-main.125b05fb.js",
+    "static/js/2.4a920329.chunk.js",
     "static/css/main.b579932f.chunk.css",
-    "static/js/main.49b38077.chunk.js"
+    "static/js/main.c5a1099a.chunk.js"
   ]
 }
