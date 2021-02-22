@@ -1,4 +1,5 @@
 # GitHub Profiles
+Web Application of which the landing page represents the most popular users on GitHub. All the otherusers are searchable and have their profiles with some public info about them. I fetched GitHub Rest APIand used React Router to complete this project.
 
 ## How to run on your local machine :arrow_heading_down:
 
